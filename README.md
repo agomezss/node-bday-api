@@ -1,4 +1,4 @@
-## Birthdat NodeJS Api
+## Birthday NodeJS Api
 
 Simple NodeJS Birthday Api written in vanilla javascript, Express, MongoDB.
 
